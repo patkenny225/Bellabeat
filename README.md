@@ -33,7 +33,7 @@ Data Source: The data used for this analysis is FitBit Fitness Tracker Data. Thi
 
 The dataset includes 18 CSV files.
 
-Does the data align with the ROCC criteria?
+Does the data align with the ROCCC criteria?
 
 * **R**eliable: **LOW** - This data was collected from a small sample size (30 users), of which characteristics like gender, age, location is unknown. In addition to this, of the thirty Fitbit users who participated in the survey, only a fraction submitted complete data. 
 * **O**riginal: **MEDIUM** - For our analysis, we are not using the original dataset produced via Amazon Mechanical Turk, but there are consistent and accurate citations. We have no reason to believe that the content of the dataset has changed from it's original form. 
@@ -43,3 +43,5 @@ Does the data align with the ROCC criteria?
 
 Notable Problems with the data:
 
+* With only 30 users participating in this study, we have a relatively small sample size. 
+* The data collected from each participant widely varies, 
