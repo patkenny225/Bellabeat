@@ -44,4 +44,9 @@ Does the data align with the ROCCC criteria?
 Notable Problems with the data:
 
 * With only 30 users participating in this study, we have a relatively small sample size. 
-* The data collected from each participant widely varies, 
+* The data collected from each participant widely varies, with some participants responding 31 times (max), one participant responding 3 times (min), and multiple participants responding around 20 times. 
+* The dataset that contains information on participant weight is very limited, with only 8 users submitting data. 
+* Our dataset is limited, only including a two month period during the Spring. (Assuming our users live in the US)
+
+## **3. Process**
+
