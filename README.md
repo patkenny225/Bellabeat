@@ -1,3 +1,3 @@
-# Case Study: Bellabeat Data Analysis
+# **Case Study: Bellabeat Data Analysis**
 
-###Analyst: Patrick Kenny
+### Analyst: Patrick Kenny
