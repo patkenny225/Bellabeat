@@ -6,4 +6,11 @@
 
 ________________________________________________________________________________________________________________
 
-![image](https://user-images.githubusercontent.com/108141441/184688372-5d5a6ef2-462a-4743-92ca-7be6c87de022.png)
+### This case study follows a six step data analysis process:
+
+1. Ask
+2. Prepare
+3. Process
+4. Analyze
+5. Share
+6. Act
