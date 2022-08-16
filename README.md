@@ -80,4 +80,12 @@ After aggregating the daily data, I added additional columns to allow for greate
 
 ### **Overview:** 
 
+The first step of my analysis was to explore the data and get a feel for what it contained. I found: 
 
+ * Average Daily Steps: 8,319
+ * Average Daily Time Sedentary: 956 minutes or ~16 hours
+ * Average Calories Burned: 2,361
+ * Average Time Slept: 7 hours
+ * Average Time in Bed: 7 hours and 38 minutes
+ 
+ This
