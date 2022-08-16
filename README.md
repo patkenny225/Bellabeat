@@ -101,6 +101,21 @@ According to the Mayo Clinic, as a general goal, adults should aim for at least 
 
 ## **General Trends:**
 
-This line graph represents the average number of steps of our participants, by the day of week. As we can see, there is a spike on Saturday, as well as early in the week, and a drop at the end of the work week and Sunday. It could be beneficial to gather additional data via surveys or other means, to discover what contributes to this pattern. One hypothesis could be that people are energized by the work week being over on Saturday and have additional free time, then rest on Sunday to prepare for the week ahead, are energized early in the week by their rest and the opportunities of a new week ahead, and then tired out by Friday. 
+This line graph represents the average number of steps of our participants, by the day of week. As we can see, there is a spike on Saturday, as well as early in the week, and a drop at the end of the work week and Sunday. It could be beneficial to gather additional qualitative data via surveys or other means, to discover what contributes to this pattern. One hypothesis could be that people are energized by the work week being over on Saturday and have additional free time, then rest on Sunday to prepare for the week ahead, are energized early in the week by their rest and the opportunities of a new week ahead, and then tired out by Friday. 
 
 ![image](https://user-images.githubusercontent.com/108141441/184996885-8d842754-f8a5-49f4-945b-8e3a290836ee.png)
+
+This line graph shows average step count, by time of day. From this graph, we notice a sharp drop in activity around 3pm, possibly following lunch time. We also notice acitivity levels peaking between 5pm and 7pm, around the time when many people are getting off work. From this chart we can possibly infer that individuals are having a post lunch crash, something we may want to address later. 
+
+![image](https://user-images.githubusercontent.com/108141441/184997486-cdeab684-1b70-4fa1-94b7-babfba92c756.png)
+
+In this bar chart, we look at the average calories burned by Sedintary Time. Interestingly, we see that there doesn't seem to be any correlation between lower sedintary time and more calories burned. If anything, we see a higher level of calories burnt when or participants spend more time in the middle three levels. 
+
+![image](https://user-images.githubusercontent.com/108141441/184998032-728a03cb-f8fb-44c7-bbb9-fe0520602543.png)
+
+
+## **Correlations:**
+
+In this line graph we see a correlation between activity level and sedentary level. This graph provides interesting insight and possibly provides some clarity to what we saw in the previous chart. It appears that participants in the middle three levels of sedentary time also spend the most time in moderate to high levels of intest acivity. 
+
+![image](https://user-images.githubusercontent.com/108141441/184999453-c03c87a8-461b-4e04-99ac-2139d21a49ee.png)
