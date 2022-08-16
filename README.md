@@ -93,5 +93,14 @@ This provided me with a solid base to start my analysis from, and also provided 
 
 ## **Daily Activity Level Breakdown:**
 
-![image](https://user-images.githubusercontent.com/108141441/184988549-7678bf02-45e6-4e5e-ad37-1d40b20ad224.png)
+The data categorized activity level into four seperate groups: Sedentary, Lightly Active, Fairly Active and Very Active. The pie chart shows us the time participants doing each type of activity, broken down by percentage. As we can see, 79% of the time participants are Sedentary, 17% of the time performing light activity, 2% fairly active and 1% very active. 
 
+![image](https://user-images.githubusercontent.com/108141441/184989458-60b00d6f-43b9-4c52-867c-b47c57ba0e1f.png)
+
+According to the Mayo Clinic, as a general goal, adults should aim for at least 30 minutes of moderate physical activity every day. They add that if you want to lose weight, maintain weight or meet specific fitness goals, you may need to exercise more. Additionally, reducing sitting time is also important. They say that the more hours you sit each day, the higher your risk of metabolic problems. According to this data, our participants spend on average about 3% or 43 minutes doing "fairly active" and "very active" activity, indicating that they meet the Mayo Clinics recommendation. At the same time, our participants also spend 79% or 18 hours and 57 minutes in a Sedentary state. This has the potential of leading to metabolic problems. 
+
+## **General Trends:**
+
+This line graph represents the average number of steps of our participants, by the day of week. As we can see, there is a spike on Saturday, as well as early in the week, and a drop at the end of the work week and Sunday. It could be beneficial to gather additional data via surveys or other means, to discover what contributes to this pattern. One hypothesis could be that people are energized by the work week being over on Saturday and have additional free time, then rest on Sunday to prepare for the week ahead, are energized early in the week by their rest and the opportunities of a new week ahead, and then tired out by Friday. 
+
+![image](https://user-images.githubusercontent.com/108141441/184996885-8d842754-f8a5-49f4-945b-8e3a290836ee.png)
