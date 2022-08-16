@@ -88,4 +88,10 @@ The first step of my analysis was to explore the data and get a feel for what it
  * Average Time Slept: 7 hours
  * Average Time in Bed: 7 hours and 38 minutes
  
- This
+This provided me with a solid base to start my analysis from, and also provided one particular insight that I would focus on later in my study. That insight was the difference between the time slept and the time in bed. It tells me that the participants are spending an average of 38 minutes in bed, before or after sleeping. 
+
+
+## **Daily Activity Level Breakdown:**
+
+![image](https://user-images.githubusercontent.com/108141441/184988549-7678bf02-45e6-4e5e-ad37-1d40b20ad224.png)
+
