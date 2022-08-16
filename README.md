@@ -50,3 +50,32 @@ Notable Problems with the data:
 
 ## **3. Process**
 
+Tools to be used: For this analysis I chose to use Excel for the entirety of the project. One of the main factors contributing to this decision was the relatively small size of the dataset. 
+
+Transforming the Data: As was previously mentioned, the Fitbit data used for this analysis came in the form of 18 seperate CSV files. Many of these files included repeated columns, so I will only need to use 5 of these files. I chose these files because they provide a useful overview of the tracker data, allowing me to find actionable insights and provide useful high-level recommendations. For ease of use, I merged the weightLogInfo_merged data into the dailyActivity_merged data set.  The files I have chose to use are:
+
+  * dailyActivity_merged.csv
+  * hourlyCalories_merged.csv
+  * hourlyIntensities_merged.csv
+  * hourlySteps_merged.csv
+  * sleepDay_merged
+  * weightLogInfo_merged.csv
+
+After aggregating the daily data, I added additional columns to allow for greater flexibility in my analysis. Some of the changes I made where:
+
+  * Inserted the data into a table format
+  * Used the date column to create two seperate columns for the month and day of the week
+  * Used Index/Match to import sleep data into the dailyActivity_merged data set
+  * Transformed the minutes slept into hours, making it easier to digest for myself and stakeholders
+  * Aggregated the totalsteps into 5 "baskets", raning from "very low" to "very high", allowing for for meaningful insights
+  * Used Index/Match to import weight data into the dailyActivity_merged data set
+
+Cleaning the data:
+
+  * Checked for any duplicates in the data and removed any instances of them
+  * Ensured that there weren't any extreme outliers in the data
+  * Discovered that the users who submitted data varied among the data sets. The data set had 33 users for daily activity, 24 for daily sleep and only 8 for weight         log. This will likely lead to weight data that is not valuable, as it doesn't reflect the overall sample popoulation. 
+
+## **4. Analyze**
+
+### **Overview:** 
