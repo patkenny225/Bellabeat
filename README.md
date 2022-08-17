@@ -101,7 +101,7 @@ According to the Mayo Clinic, as a general goal, adults should aim for at least 
 
 ### **General Trends:**
 
-This line graph represents the average number of steps of our participants, by the day of week. As we can see, there is a spike on Saturday, as well as early in the week, and a drop at the end of the work week and Sunday. It could be beneficial to gather additional qualitative data via surveys or other means, to discover what contributes to this pattern. One hypothesis could be that people are energized by the work week being over on Saturday and have additional free time, then rest on Sunday to prepare for the week ahead, are energized early in the week by their rest and the opportunities of a new week ahead, and then tired out by Friday. 
+This line graph represents the average number of steps for our participants, by the day of week. As we can see, there is a spike on Saturday, as well as early in the week, and a drop at the end of the work week and Sunday. It could be beneficial to gather additional qualitative data via surveys or other means, to discover what contributes to this pattern. One hypothesis could be that people are energized by the work week being over on Saturday and have additional free time, then rest on Sunday to prepare for the week ahead, are energized early in the week by their rest and the opportunities of a new week ahead, and then tired out by Friday. 
 
 ![image](https://user-images.githubusercontent.com/108141441/184996885-8d842754-f8a5-49f4-945b-8e3a290836ee.png)
 
@@ -109,7 +109,7 @@ This line graph shows average step count, by time of day. From this graph, we no
 
 ![image](https://user-images.githubusercontent.com/108141441/184997486-cdeab684-1b70-4fa1-94b7-babfba92c756.png)
 
-In this bar chart, we look at the average calories burned by Sedintary Time. Interestingly, we see that there doesn't seem to be any correlation between lower sedintary time and more calories burned. If anything, we see a higher level of calories burnt when or participants spend more time in the middle three levels. 
+In this bar chart, we look at the average calories burned by Sedentary Time. Interestingly, we see that there doesn't seem to be any correlation between lower sedentary time and more calories burned. If anything, we see a higher level of calories burnt when or participants spend more time in the middle three levels. 
 
 ![image](https://user-images.githubusercontent.com/108141441/184998032-728a03cb-f8fb-44c7-bbb9-fe0520602543.png)
 
@@ -135,7 +135,7 @@ This chart shows us the percentage breakdown of how participants spend time in b
 
 ![image](https://user-images.githubusercontent.com/108141441/185007495-7acea1a9-ba9c-4c9e-bdd5-d48cd0243cd6.png)
 
-According to an article from the Harvard Medical School, it is reccomended that when possible, we striclty reserve our bed only for sleep. They add that we should avoid answering phone calls, responding to emails, and wathching TV/Video games. 
+According to an article from the Harvard Medical School, it is reccomended that when possible, we striclty reserve our bed only for sleep. They add that we should avoid answering phone calls, responding to emails, and wathching TV/Video games while in bed. 
 
 
 ## **5. Share:**
@@ -155,4 +155,25 @@ According to an article from the Harvard Medical School, it is reccomended that 
 
 **Recommendations**
 
+1. **Weekly Challenges**
+ 
+From our analysis we can see inconsistencies in activity levels during the week. To combat this, we should create a series of weekly challenges for our customers, with a particular focus on activities during the end of the week and Sunday. Do increase the participation rate, we should create notifications to be sent to our users smart devices, reminding them of the daily challenge. In addition to these reminders, we should create a leader board and award prizes for top performers, most improved, etc. 
 
+2. **Workout Buddies**
+ 
+As noted earlier, we see a drop in activity during the end of the work week. To combat this, we should create a feature on our app that allows users to create "workout buddies". This could be a friend or complete stranger, who shares a similiar schedule and goal as the user. This feature would allow workout buddies to sent a push notification to each other when they're being active and can include the details of their activity, if they choose to do so. This should help with accountablility, engagement and loyaly. 
+
+3. **Smart Alarm Clock**
+
+In our analysis, we discovered an apparent correlation between sleep and activity level. In particular, this was highlighted by our participants improved sleep time on Sunday, with the improved activity level at the beginning of the week. Additionally we discovered that participants spend too much time in bed, not sleeping. My proposed solution to this, is a new product. The product would be a simplified alarm clock that connects to and can be controlled by the users app. In addition to the functionality from the app, the alarm clock would display the time and have a single button. Users would press this button when they get in bed and press it again when they get out of bed. They would then have access to this data via their app, and could see insights into their sleep patterns. This would have a few positive outcomes, the first would be that users would be more mindful of the time their in bed. Another would be that our data analytics team would have much better quality data to use for our analysis. 
+
+
+### **Citations**
+
+"How much should the average adult exercise every day?" Edward Laskowski, M.D.,
+Mayo Clinic, Sept. 22, 2021
+https://www.mayoclinic.org/healthy-lifestyle/fitness/expert-answers/exercise/faq-20057916#:~:text=As%20a%20general%20goal%2C%20aim,your%20risk%20of%20metabolic%20problems.
+
+"8 secrets to a good night's sleep"
+Harvard Medical Schoool, September 30, 2021
+https://www.health.harvard.edu/newsletter_article/8-secrets-to-a-good-nights-sleep
