@@ -155,15 +155,15 @@ According to an article from the Harvard Medical School, it is reccomended that 
 
 **Recommendations**
 
-1.**Weekly Challenges**
+1. **Weekly Challenges**
  
-From our analysis we can see inconsistencies in activity levels during the week. To combat this, we should create a series of weekly challenges for our customers, with a particular focus on activities during the end of the week and Sunday. Do increase the participation rate, we should create notifications to be sent to our users smart devices, reminding them of the daily challenge. In addition to these reminders, we should create a leader board and award prizes for top performers, most improved, etc. 
+From our analysis we can see inconsistencies in activity levels during the week. To combat this, we should create a series of weekly challenges for our customers,    with a particular focus on activities during the end of the week and Sunday. Do increase the participation rate, we should create notifications to be sent to our users smart devices, reminding them of the daily challenge. In addition to these reminders, we should create a leader board and award prizes for top performers, most improved, etc. 
 
-2.**Workout Buddies**
+2. **Workout Buddies**
  
 As noted earlier, we see a drop in activity during the end of the work week. To combat this, we should create a feature on our app that allows users to create "workout buddies". This could be a friend or complete stranger, who shares a similiar schedule and goal as the user. This feature would allow workout buddies to sent a push notification to each other when they're being active and can include the details of their activity, if they choose to do so. This should help with accountablility, engagement and loyaly. 
 
-3.**Smart Alarm Clock**
+3. **Smart Alarm Clock**
 
 In our analysis, we discovered an apparent correlation between sleep and activity level. In particular, this was highlighted by our participants improved sleep time on Sunday, with the improved activity level at the beginning of the week. Additionally we discovered that participants spend too much time in bed, not sleeping. My proposed solution to this, is a new product. The product would be a simplified alarm clock that connects to and can be controlled by the users app. In addition to the functionality from the app, the alarm clock would display the time and have a single button. Users would press this button when they get in bed and press it again when they get out of bed. They would then have access to this data via their app, and could see insights into their sleep patterns. This would have a few positive outcomes, the first would be that users would be more mindful of the time their in bed. Another would be that our data analytics team would have much better quality data to use for our analysis. 
 
