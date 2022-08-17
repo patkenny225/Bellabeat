@@ -52,7 +52,7 @@ The dataset includes 18 CSV files.
 
 **Tools to be used:** For this analysis I chose to use Excel for the entirety of the project. One of the main factors contributing to this decision was the relatively small size of the dataset. 
 
-**Transforming the Data:** As was previously mentioned, the Fitbit data used for this analysis came in the form of 18 seperate CSV files. Many of these files included repeated columns, so I will only need to use 5 of these files. I chose these files because they provide a useful overview of the tracker data, allowing me to find actionable insights and provide useful high-level recommendations. For ease of use, I merged the weightLogInfo_merged data into the dailyActivity_merged data set.  The files I have chose to use are:
+**Transforming the Data:** As was previously mentioned, the Fitbit data used for this analysis came in the form of 18 separate CSV files. Many of these files included repeated columns, so I will only need to use 5 of these files. I chose these files because they provide a useful overview of the tracker data, allowing me to find actionable insights and provide useful high-level recommendations. For ease of use, I merged the weightLogInfo_merged data into the dailyActivity_merged data set.  The files I have chose to use are:
 
   * dailyActivity_merged.csv
   * hourlyCalories_merged.csv
@@ -64,10 +64,10 @@ The dataset includes 18 CSV files.
 After aggregating the daily data, I added additional columns to allow for greater flexibility in my analysis. Some of the changes I made where:
 
   * Inserted the data into a table format
-  * Used the date column to create two seperate columns for the month and day of the week
+  * Used the date column to create two separate columns for the month and day of the week
   * Used Index/Match to import sleep data into the dailyActivity_merged data set
   * Transformed the minutes slept into hours, making it easier to digest for myself and stakeholders
-  * Aggregated the totalsteps into 5 "baskets", raning from "very low" to "very high", allowing for for meaningful insights
+  * Aggregated the totalsteps into 5 "baskets", ranging from "very low" to "very high", allowing for for meaningful insights
   * Used Index/Match to import weight data into the dailyActivity_merged data set
 
 **Cleaning the data:**
@@ -93,7 +93,7 @@ This provided me with a solid base to start my analysis from, and also provided 
 
 ### **Daily Activity Level Breakdown:**
 
-The data categorized activity level into four seperate groups: Sedentary, Lightly Active, Fairly Active and Very Active. The pie chart shows us the time participants doing each type of activity, broken down by percentage. As we can see, 79% of the time participants are Sedentary, 17% of the time performing light activity, 2% fairly active and 1% very active. 
+The data categorized activity level into four separate groups: Sedentary, Lightly Active, Fairly Active and Very Active. The pie chart shows us the time participants doing each type of activity, broken down by percentage. As we can see, 79% of the time participants are Sedentary, 17% of the time performing light activity, 2% fairly active and 1% very active. 
 
 ![image](https://user-images.githubusercontent.com/108141441/184989458-60b00d6f-43b9-4c52-867c-b47c57ba0e1f.png)
 
@@ -116,7 +116,7 @@ In this bar chart, we look at the average calories burned by Sedentary Time. Int
 
 ### **Correlations:**
 
-In this line graph we see a correlation between activity level and sedentary level. This graph provides interesting insight and possibly provides some clarity to what we saw in the previous chart. It appears that participants in the middle three levels of sedentary time also spend the most time in moderate to high levels of intest acivity. 
+In this line graph we see a correlation between activity level and sedentary level. This graph provides interesting insight and possibly provides some clarity to what we saw in the previous chart. It appears that participants in the middle three levels of sedentary time also spend the most time in moderate to high levels of intense activity. 
 
 ![image](https://user-images.githubusercontent.com/108141441/184999453-c03c87a8-461b-4e04-99ac-2139d21a49ee.png)
 
@@ -135,12 +135,12 @@ This chart shows us the percentage breakdown of how participants spend time in b
 
 ![image](https://user-images.githubusercontent.com/108141441/185007495-7acea1a9-ba9c-4c9e-bdd5-d48cd0243cd6.png)
 
-According to an article from the Harvard Medical School, it is reccomended that when possible, we striclty reserve our bed only for sleep. They add that we should avoid answering phone calls, responding to emails, and wathching TV/Video games while in bed. 
+According to an article from the Harvard Medical School, it is recommended that when possible, we strictly reserve our bed only for sleep. They add that we should avoid answering phone calls, responding to emails, and watching TV/Video games while in bed. 
 
 
 ## **5. Share:**
 
-
+For the purposes of this case study, the visualizations are included in the "Analyze" section.
 
 ## **6. Act**
 
@@ -148,10 +148,10 @@ According to an article from the Harvard Medical School, it is reccomended that 
 
  * Almost 80% of each day in a sedentary state by our participants, with only 3% of their time doing a moderate to high level of activity
  * Saturday and the beginning of the week were the most active times for our participants
- * Between 5pm and 7pm was the most active time for our participants and around 3pm we saw a noticable low point when compared to the rest of the waking day
+ * Between 5pm and 7pm was the most active time for our participants and around 3pm we saw a noticeable low point when compared to the rest of the waking day
  * We see a moderate correlation between step count and calories burned
- * On average, our particpants got the most sleep on Sunday
- * Patricipants spent 9% of their time in bed, awake
+ * On average, our participants got the most sleep on Sunday
+ * Participants spent 9% of their time in bed, awake
 
 **Recommendations**
 
@@ -161,11 +161,11 @@ From our analysis we can see inconsistencies in activity levels during the week.
 
 2. **Workout Buddies**
  
-As noted earlier, we see a drop in activity during the end of the work week. To combat this, we should create a feature on our app that allows users to create "workout buddies". This could be a friend or complete stranger, who shares a similiar schedule and goal as the user. This feature would allow workout buddies to sent a push notification to each other when they're being active and can include the details of their activity, if they choose to do so. This should help with accountablility, engagement and loyaly. 
+As noted earlier, we see a drop in activity during the end of the work week. To combat this, we should create a feature on our app that allows users to create "workout buddies". This could be a friend or complete stranger, who shares a similiar schedule and goal as the user. This feature would allow workout buddies to sent a push notification to each other when they're being active and can include the details of their activity, if they choose to do so. This should help with accountability, engagement and loyalty. 
 
 3. **Smart Alarm Clock**
 
-In our analysis, we discovered an apparent correlation between sleep and activity level. In particular, this was highlighted by our participants improved sleep time on Sunday, with the improved activity level at the beginning of the week. Additionally we discovered that participants spend too much time in bed, not sleeping. My proposed solution to this, is a new product. The product would be a simplified alarm clock that connects to and can be controlled by the users app. In addition to the functionality from the app, the alarm clock would display the time and have a single button. Users would press this button when they get in bed and press it again when they get out of bed. They would then have access to this data via their app, and could see insights into their sleep patterns. This would have a few positive outcomes, the first would be that users would be more mindful of the time their in bed. Another would be that our data analytics team would have much better quality data to use for our analysis. 
+In our analysis, we discovered an apparent correlation between sleep and activity level. In particular, this was highlighted by our participants improved sleep time on Sunday, with the improved activity level at the beginning of the week. Additionally, we discovered that participants spend too much time in bed, not sleeping. My proposed solution to this, is a new product. The product would be a simplified alarm clock that connects to and can be controlled by the users app. In addition to the functionality from the app, the alarm clock would display the time and have a single button. Users would press this button when they get in bed and press it again when they get out of bed. They would then have access to this data via their app and could see insights into their sleep patterns. This would have a few positive outcomes, the first would be that users would be more mindful of the time their in bed. Another would be that our data analytics team would have much better quality data to use for our analysis. 
 
 
 ### **Citations**
@@ -175,5 +175,5 @@ Mayo Clinic, Sept. 22, 2021
 https://www.mayoclinic.org/healthy-lifestyle/fitness/expert-answers/exercise/faq-20057916#:~:text=As%20a%20general%20goal%2C%20aim,your%20risk%20of%20metabolic%20problems.
 
 "8 secrets to a good night's sleep"
-Harvard Medical Schoool, September 30, 2021
+Harvard Medical School, September 30, 2021
 https://www.health.harvard.edu/newsletter_article/8-secrets-to-a-good-nights-sleep
