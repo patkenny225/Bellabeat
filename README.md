@@ -41,7 +41,7 @@ The dataset includes 18 CSV files.
 * **C**urrent: **MEDIUM** - Our data was collected between March and May of 2016, making it a litt more than 6 years old. While this is not an extreme amount of time, there have been substantial societal and social changed during that period. 
 * **C**ited: **HIGH** - The source and means of data collection is accurately and clearly cited. 
 
-**Notable Problems with the data:**
+**Notable problems with the data:**
 
 * With only 30 users participating in this study, we have a relatively small sample size. 
 * The data collected from each participant widely varies, with some participants responding 31 times (max), one participant responding 3 times (min), and multiple participants responding around 20 times. 
