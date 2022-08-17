@@ -118,7 +118,7 @@ In this bar chart, we look at the average calories burned by Sedentary Time. Int
 
 In this line graph we see a correlation between activity level and sedentary level. This graph provides interesting insight and possibly provides some clarity to what we saw in the previous chart. It appears that participants in the middle three levels of sedentary time also spend the most time in moderate to high levels of intense activity. 
 
-![image](https://user-images.githubusercontent.com/108141441/184999453-c03c87a8-461b-4e04-99ac-2139d21a49ee.png)
+![image](https://user-images.githubusercontent.com/108141441/185232122-5c9f5c3a-c0db-45d1-ab6d-42397b6ec8c3.png)
 
 This chart is looking at the correlation between steps and calories burnt. As would be expected, we do see some correlation between step count and calories burned. But, maybe more surprisingly is the larger population of participants who have minimal activity, but still burn between 1500 and 3000 calories. We can understand this a bit better by thinking back to the information from Mayo Clinic, in which they informed us that it takes substantial activity at at least a moderate level to lose weight (burn more calories than you consume). 
 
