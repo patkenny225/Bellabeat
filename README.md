@@ -111,7 +111,7 @@ This line graph shows average step count, by time of day. From this graph, we no
 
 In this bar chart, we look at the average calories burned by Sedentary Time. Interestingly, we see that there doesn't seem to be any correlation between lower sedentary time and more calories burned. If anything, we see a higher level of calories burnt when or participants spend more time in the middle three levels. 
 
-![image](https://user-images.githubusercontent.com/108141441/184998032-728a03cb-f8fb-44c7-bbb9-fe0520602543.png)
+![image](https://user-images.githubusercontent.com/108141441/185231876-33162865-aa0a-4b43-88d1-17cad764a2a8.png)
 
 
 ### **Correlations:**
